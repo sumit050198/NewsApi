@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 20,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "KTLA Los Angeles"
+          },
+          "author": "Jas Kang",
+          "title": "$395 pineapple being sold at Southern California produce store - KTLA Los Angeles",
+          "description": "Families in California pay more for groceries than those in any other state. Now, a single fruit is being sold at a SoCal retailer that costs more than the average of $297.72 per week that households spend on food in the Golden State. The Rubyglow pineapple i…",
+          "url": "https://ktla.com/news/local-news/395-pineapple-being-sold-at-southern-california-produce-store/",
+          "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/05/snapshot_f0f6db.jpg?w=1280",
+          "publishedAt": "2024-05-20T01:38:23Z",
+          "content": "Families in California pay more for groceries than those in any other state. Now, a single fruit is being sold at a SoCal retailer that costs more than the average of $297.72 per week that households… [+1176 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Lisa Kailai Han",
+          "title": "Stock futures tick higher after Dow closes above 40,000 for the first time: Live updates - CNBC",
+          "description": "The Dow Jones Industrial Average is coming off of a notable week, having reached an all-time high on Thursday and a close above 40,000 on Friday.",
+          "url": "https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107416608-1715960766151-gettyimages-2152821471-AFP_34RZ9ZW.jpeg?v=1715960841&w=1920&h=1080",
+          "publishedAt": "2024-05-20T01:34:00Z",
+          "content": "U.S. stock futures ticked higher on Sunday night, after the Dow Jones Industrial Average closed above the key 40,000 level for the first time ever on Friday.\r\nFutures tied to the 30-stock index rose … [+1621 chars]"
+      },
+      {
+          "source": {
+              "id": "bloomberg",
+              "name": "Bloomberg"
+          },
+          "author": null,
+          "title": "Gold Holds Near Record as Fed Rate-Cut Optimism Fuels Demand - Bloomberg",
+          "description": null,
+          "url": "https://www.bloomberg.com/news/articles/2024-05-20/gold-xauusd-holds-near-record-as-fed-rate-cut-optimism-fuels-demand",
+          "urlToImage": null,
+          "publishedAt": "2024-05-20T00:23:00Z",
+          "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Michael Dorgan",
+          "title": "Costco price hike: Popular items see unexpected jumps in cost - Fox Business",
+          "description": "Costco's multinational chain of membership-only stores have increased some prices, like for olive oil and gas, while its $1.50 hot dog-soda combo is unchanged for the time being.",
+          "url": "https://www.foxbusiness.com/retail/costco-price-hike-popular-items-see-unexpected-jumps-cost",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/iStock-1172757625.jpg?ve=1&tl=1",
+          "publishedAt": "2024-05-20T00:03:00Z",
+          "content": "Creeping price hikes have become all too common for consumers, and Costco has generally been a safe haven for savvy shoppers due to its bulk buys and competitive prices. \r\nHowever, the retailer has r… [+3623 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Tipranks.com"
+          },
+          "author": "Marty Shtrubel",
+          "title": "'It's a Losing Game,' Says Wedbush About GameStop Stock - TipRanks.com - TipRanks",
+          "description": "GameStop (NYSE:GME) stock doesn’t seem to do anything in half measures. Following a long absence, a recent tweet by Roaring Kitty, the person largely responsible fo...",
+          "url": "https://www.tipranks.com/news/its-a-losing-game-says-wedbush-about-gamestop-stock",
+          "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/05/GME-0520-750x400.jpg",
+          "publishedAt": "2024-05-19T23:36:47Z",
+          "content": "GameStop (NYSE:GME) stock doesnt seem to do anything in half measures. Following a long absence, a recent tweet by Roaring Kitty, the person largely responsible for kicking off 2021s meme stock mania… [+2747 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Reuters",
+          "title": "EQT in advanced talks to buy Keywords Studios for $2.8 billion - Reuters",
+          "description": null,
+          "url": "https://www.reuters.com/markets/deals/eqt-talks-buy-keywords-studios-28-bln-ft-reports-2024-05-19/",
+          "urlToImage": null,
+          "publishedAt": "2024-05-19T23:35:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Jason Ma",
+          "title": "AI chip giant Nvidia is about to report first-quarter earnings: Here's what Wall Street expects as growth looks set to cool - Yahoo Finance",
+          "description": "Analysts see Nvidia's earnings per share soaring 474% to $5.22, with revenue up 241% to $24.5 billion.",
+          "url": "https://finance.yahoo.com/news/ai-chip-giant-nvidia-report-221002806.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fPWOfvHgAC3GpH4D7YNQSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/016bea9382934dd1b981f05b77a3ec2b",
+          "publishedAt": "2024-05-19T22:10:02Z",
+          "content": "Top AI chip supplier Nvidia reports fiscal first-quarter results Wednesday after the market closes, with Wall Street anticipating some deceleration following its earlier blockbuster growth.\r\nStill, f… [+2736 chars]"
+      },
+      {
+          "source": {
+              "id": "bloomberg",
+              "name": "Bloomberg"
+          },
+          "author": null,
+          "title": "China's Housing Rescue Is Too Small to End Crisis, Analysts Say - Bloomberg",
+          "description": null,
+          "url": "https://www.bloomberg.com/news/articles/2024-05-19/china-s-housing-rescue-is-too-small-to-end-crisis-analysts-say",
+          "urlToImage": null,
+          "publishedAt": "2024-05-19T22:00:00Z",
+          "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Jamie McGeever",
+          "title": "Morning Bid: China clouds darken market mood - Reuters",
+          "description": "A look at the day ahead in Asian markets.",
+          "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-19/",
+          "urlToImage": "https://www.reuters.com/resizer/v2/5GNIWEOQ6FI2VE6C6YK5C4WHF4.jpg?auth=6a2031c72388c1079e6ce9874c7d4e879acaa8a06fa2facf1dc1d3eb0eb31cc2&height=1005&width=1920&quality=80&smart=true",
+          "publishedAt": "2024-05-19T21:48:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Forbes"
+          },
+          "author": "Ariel Cohen",
+          "title": "Texas Is Heading Towards An Avoidable Blackout…Again - Forbes",
+          "description": "With seven people killed and close to a million losing power, the recent storms hit Texas hard, showcasing the vulnerabilities of its isolated grid.",
+          "url": "https://www.forbes.com/sites/arielcohen/2024/05/19/texas-is-heading-towards-an-avoidable-blackoutagain/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/664a39655837a726aa1f7cc1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "publishedAt": "2024-05-19T20:00:52Z",
+          "content": "Down power lines are shown in the aftermath of a severe thunderstorm Friday, May 17, 2024, in ... [+] Cypress, Texas, near Houston. Thunderstorms pummeled southeastern Texas on Thursday killing at le… [+4921 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Issam AHMED",
+          "title": "Blue Origin flies thrill seekers to space, including oldest astronaut - Phys.org",
+          "description": "After a nearly two-year hiatus, Blue Origin flew adventurers to space on Sunday, including a former Air Force pilot who was denied the chance to be the United States' first Black astronaut decades ago.",
+          "url": "https://phys.org/news/2024-05-blue-flies-thrill-seekers-space-1.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/blue-origin-saw-its-fi.jpg",
+          "publishedAt": "2024-05-19T19:46:22Z",
+          "content": "After a nearly two-year hiatus, Blue Origin flew adventurers to space on Sunday, including a former Air Force pilot who was denied the chance to be the United States' first Black astronaut decades ag… [+4262 chars]"
+      },
+      {
+          "source": {
+              "id": "fortune",
+              "name": "Fortune"
+          },
+          "author": "Jason Ma",
+          "title": "'Copper is the new oil,' and prices could soar 50% as AI, green energy, and military spending boost demand, top commodities analyst says - Fortune",
+          "description": "\"But I go back to the 2000s, I was bullish on oil then as I am on copper today.\"",
+          "url": "https://fortune.com/2024/05/19/copper-price-outlook-15000-per-ton-crude-oil-ai-green-energy-data-centers/",
+          "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1405981940-e1716143428610.jpg?resize=1200,600",
+          "publishedAt": "2024-05-19T19:39:00Z",
+          "content": "Copper is emerging as the next indispensable industrial commodity, mirroring oils rise in earlier decades, a top commodities analyst said.This time around, new forces in the economy, namely the adven… [+2125 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Newsnationnow.com"
+          },
+          "author": "Emily Finn",
+          "title": "Questions emerge over China spying on US military bases - NewsNation Now",
+          "description": "Chinese nationals tried to enter U.S. military sites more than 100 times last year, often posing as food delivery drivers or tourists, per reports.",
+          "url": "https://www.newsnationnow.com/world/china/questions-china-spying-military/",
+          "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/05/GettyImages-1981391926.jpg?w=1280",
+          "publishedAt": "2024-05-19T19:34:00Z",
+          "content": "(NewsNation) The Biden administration issued an order this week to block a Chinese cryptocurrency mining company from owning land near a nuclear missile base in Wyoming, citing national security risk… [+2365 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Federalreserve.gov"
+          },
+          "author": null,
+          "title": "Remarks by Chair Powell at the Georgetown University Law Center commencement ceremony - Federal Reserve",
+          "description": "Thank you, Dean Treanor, for the invitation to speak here today. I am very sorry that circumstances prevent me from joining you in person.  I will start by ack",
+          "url": "https://www.federalreserve.gov/newsevents/speech/powell20240519a.htm",
+          "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+          "publishedAt": "2024-05-19T19:30:42Z",
+          "content": "Accessible Keys for Video\r\n[Space Bar] toggles play/pause;\r\n[Right/Left Arrows] seeks the video forwards and back (5 sec );\r\n[Up/Down Arrows] increase/decrease volume;\r\n[M] toggles mute on/off;\r\n[F] … [+9871 chars]"
+      },
+      {
+          "source": {
+              "id": "associated-press",
+              "name": "Associated Press"
+          },
+          "author": "FIRDIA LISNAWATI, NINIEK KARMINI",
+          "title": "Elon Musk launches Starlink satellite internet service in Indonesia, world's largest archipelago - The Associated Press",
+          "description": "Elon Musk has traveled to Indonesia’s resort island of Bali to launch Starlink satellite internet service in the world’s largest archipelago nation. Wearing a green Batik shirt, Musk was greeted Sunday with a garland of flower petals at a community health cli…",
+          "url": "https://apnews.com/article/indonesia-bali-elon-musk-starlink-internet-service-8444ca8b5da4f4a9973a66f8fd1d3e0f",
+          "urlToImage": "https://dims.apnews.com/dims4/default/478bbe4/2147483647/strip/true/crop/4572x2572+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F2e%2F6fb815c98482b57ccfebfa8f2733%2F6af9a14c7d6d4cfa8b31d5bf80b16099",
+          "publishedAt": "2024-05-19T18:45:00Z",
+          "content": "DENPASAR, Indonesia (AP) Elon Musk traveled to Indonesias resort island of Bali on Sunday to launch Starlink satellite internet service in the worlds largest archipelago nation.\r\nWearing a green Bati… [+3662 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Bitcoinist"
+          },
+          "author": "Christian Encila",
+          "title": "Crypto Institutions Gobble Up Billions In Bitcoin ETFs, Stockpiling 250,000 BTC - Details - Bitcoinist",
+          "description": "The tides are turning in the cryptocurrency world, with institutional investors making a big splash in Bitcoin exchange-traded funds (ETFs) while retail",
+          "url": "https://bitcoinist.com/institutions-gobble-up-billions-in-bitcoin-etfs/",
+          "urlToImage": "https://bitcoinist.com/wp-content/uploads/2024/05/a_08cadd.jpg",
+          "publishedAt": "2024-05-19T18:30:00Z",
+          "content": "The tides are turning in the cryptocurrency world, with institutional investors making a big splash in Bitcoin exchange-traded funds (ETFs) while retail investors seem content to bob on the sidelines… [+3112 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Ambcrypto.com"
+          },
+          "author": "Dipayan Mitra",
+          "title": "PEPE: Profit-taking sparks price fall? Investors in profit reach 92% - AMBCrypto News",
+          "description": "Selling pressure on PEPE increased over the last few days, which might have resulted in a price correction.",
+          "url": "https://ambcrypto.com/pepe-profit-taking-sparks-price-fall-investors-in-profit-reach-92/",
+          "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/05/PEPE-turns-bearish-1000x600.webp",
+          "publishedAt": "2024-05-19T18:05:38Z",
+          "content": "<ul><li>The meme coin was down by more than 6% in the last 24 hours. </li><li>Market indicators and metrics hinted at a further price decline. </li></ul>Pepe [PEPE] had a major setback on the 18th of… [+2473 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Teslarati"
+          },
+          "author": "Zachary Visconti",
+          "title": "Mercedes workers in Alabama vote against UAW membership - TESLARATI",
+          "description": "Mercedes workers in Alabama have voted against joining the UAW last week, after the union was successfully voted in at a Volkswagen plant...",
+          "url": "https://www.teslarati.com/mercedes-alabama-against-uaw/",
+          "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/02/mercedes-benz-tuscaloosa-alabama-plant-mbusi-1024x576.jpg",
+          "publishedAt": "2024-05-19T17:08:42Z",
+          "content": "Mercedes workers in Alabama have voted against joining the United Automotive Workers (UAW) last week, after the union was successfully voted in at a Volkswagen plant last month.\r\nFollowing the vote f… [+2152 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "David Hollerith",
+          "title": "The big questions JPMorgan investors have for Jamie Dimon - Yahoo Finance",
+          "description": "Attendees at JPMorgan's annual investor day Monday will be listening for answers to some key questions. A top concern is how much longer Jamie Dimon plans to...",
+          "url": "https://finance.yahoo.com/news/the-big-questions-jpmorgan-investors-have-for-jamie-dimon-150129167.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8E3g_MvJJAt7wDjUf5r6Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/0cf8d610-b64f-11ee-a5fe-82e8abbd789a",
+          "publishedAt": "2024-05-19T17:00:29Z",
+          "content": "Investors are gathering at JPMorgans (JPM) Manhattan campus Monday to hear from CEO Jamie Dimon and his executive team, and they will be listening for answers to some key questions.\r\nWho might succee… [+6957 chars]"
+      },
+      {
+          "source": {
+              "id": "fortune",
+              "name": "Fortune"
+          },
+          "author": "Jeremy Kahn",
+          "title": "AI isn't coming for your job—at least not yet - Fortune",
+          "description": "So far, the technology has replaced only a small number of workers. But the future risks many more.",
+          "url": "https://fortune.com/2024/05/19/ai-jobs-replacing-workers-learning-to-use-gen-ai-technology-ups-ibm-google/",
+          "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/03/JOB0524-ART-vortex.jpg?resize=1200,600",
+          "publishedAt": "2024-05-19T16:45:00Z",
+          "content": "When CEOs talk to investors about layoffs, they usually blame economic uncertainty or business headwinds. Now a new term is starting to crop up in these announcements: AI.In recent months, shipping g… [+6920 chars]"
+      }
+  ]
+}

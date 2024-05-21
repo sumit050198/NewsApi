@@ -1,25 +1,27 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import React, { Component } from 'react'
+import Navbar from './components/Navbar';
+import NewsItems from './components/NewsItems';
+import News from './components/News';
+
+export default class App extends Component {
+  render() {
+    return (
+      <div className="">
+        <Navbar/>
+        <News/>
+        {/* <NewsItems/>
+        <NewsItems/>
+        <NewsItems/>
+        <NewsItems/>
+        <NewsItems/> */}
+      </div>
+    )
+  }
 }
 
-export default App;
+// MY API KET
+// ed9b1d28af3644cda53f8d85664c1abf
+
